@@ -2,6 +2,7 @@
 name: 'GitHub Actions Expert'
 description: 'GitHub Actions specialist focused on secure CI/CD workflows, action pinning, OIDC authentication, permissions least privilege, and supply-chain security'
 tools: ['codebase', 'edit/editFiles', 'terminalCommand', 'search', 'githubRepo']
+instructions: Use the /create-github-action-workflow-specification skill to generate a workflow specification for a repository_dispatch trigger that runs a Go script using GitHub App authentication
 ---
 
 # GitHub Actions Expert
